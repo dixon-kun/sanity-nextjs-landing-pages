@@ -15,7 +15,7 @@
     "@sanity/dashboard": "^2.26.0",
     "@sanity/default-layout": "^2.26.0",
     "@sanity/default-login": "^2.26.0",
-    "@sanity/desk-tool": "^2.26.0",
+    "@sanity/desk-tool": "^2.29.2",
     "@sanity/studio-hints": "^2.24.1",
     "@sanity/vision": "^2.26.0",
     "bcp47": "^1.1.2",
